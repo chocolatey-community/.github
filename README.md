@@ -1,0 +1,2 @@
+# .github
+Chocolatey Community Organization
