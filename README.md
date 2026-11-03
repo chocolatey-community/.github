@@ -13,7 +13,7 @@ Chocolatey Software's own open-source products live in the [chocolatey](https://
 ## Getting Help
 
 - **Community projects in this organization:** open an issue on the relevant repository. Maintainers respond on a best-effort basis.
-- **Chocolatey for Business customers:** use your normal Chocolatey Software support channel: run the `choco support` command for your options. Problems with community projects are not handled through commercial support.
+**Chocolatey for Business customers:** problems with community projects are not handled through commercial support. See above to raise an issue.
 
 ## Reporting Security Issues
 
